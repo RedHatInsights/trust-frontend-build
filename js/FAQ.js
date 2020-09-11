@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{434:function(e,a,t){"use strict";t.r(a);var c=t(398),n=t.n(c),s=(t(265),t(209)),r=t(374),f=t(0),o=t.n(f),u=t(435),i=t.n(u),l=t(220);a.default=function(){var e=Object(f.useState)(),a=n()(e,2),t=a[0],c=a[1],u=Object(l.a)();return Object(f.useEffect)((function(){c(u.formatMessage(r.a.faqBody))}),[]),o.a.createElement("div",{className:"ins-c-flex-center"},o.a.createElement(s.a,{className:"faq-card"},o.a.createElement(i.a,{source:t,escapeHtml:!1})))}},554:function(e,a){}}]);
-//# sourceMappingURL=FAQ.js.map
