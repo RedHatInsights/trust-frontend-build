@@ -1,11 +1,11 @@
 {
-  "app_name": "trust",
-  "src_hash": "9768e796e300c3a360064f96aa35515563349b78",
+  "app_name": "insights",
+  "src_hash": "7c449de048604c7fedffeb5ebe98ff5544204901",
   "src_tag": "",
   "src_branch": "master",
   "travis": {
     "event_type": "push",
-    "build_number": "42",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/trust-frontend/builds/725895534"
+    "build_number": "44",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/trust-frontend/builds/726290769"
   }
 }
