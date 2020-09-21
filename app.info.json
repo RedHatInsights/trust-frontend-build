@@ -3,7 +3,7 @@
   "src_hash": "f78925a8a25a620ebe5de2008c14ed758a9d8470",
   "src_tag": "",
   "src_branch": "prod-stable",
-  "patternfly_dependencies": ["@patternfly/patternfly@4.42.2","@patternfly/react-core@4.50.2","@patternfly/react-icons@4.7.6","@patternfly/react-table@4.16.20"]
+  "patternfly_dependencies": ["@patternfly/patternfly@4.42.2","@patternfly/react-core@4.50.2","@patternfly/react-icons@4.7.6","@patternfly/react-table@4.16.20"],
   "travis": {
     "event_type": "push",
     "build_number": "66",
