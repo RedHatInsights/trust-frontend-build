@@ -1,12 +1,12 @@
 {
   "app_name": "trust",
-  "src_hash": "b147cda15bc8fcd5439badecb73ad83a91dda790",
+  "src_hash": "7f09158479d7e41a65ac0804553a2e9e4bfc7acc",
   "src_tag": "",
   "src_branch": "master",
   "patternfly_dependencies": ["@patternfly/patternfly@4.50.4","@patternfly/react-core@4.63.3","@patternfly/react-icons@4.7.11","@patternfly/react-table@4.18.14"],
   "travis": {
     "event_type": "push",
-    "build_number": "81",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/trust-frontend/builds/734302511"
+    "build_number": "85",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/trust-frontend/builds/737048905"
   }
 }
