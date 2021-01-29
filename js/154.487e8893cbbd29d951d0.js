@@ -1,2 +1,0 @@
-(self.webpackChunktrust_frontend=self.webpackChunktrust_frontend||[]).push([[154],{67154:t=>{function r(){return t.exports=r=Object.assign||function(t){for(var r=1;r<arguments.length;r++){var n=arguments[r];for(var e in n)Object.prototype.hasOwnProperty.call(n,e)&&(t[e]=n[e])}return t},r.apply(this,arguments)}t.exports=r}}]);
-//# sourceMappingURL=154.487e8893cbbd29d951d0.js.map
