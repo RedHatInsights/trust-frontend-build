@@ -1,10 +1,10 @@
 {
-    "trust": {
+    "insights": {
         "entry": [
-            "/apps/trust/trust.bc51a8b919f9ff02cdbb.js"
+            "/apps/insights/insights.064681af0e2ad3f22be8.js"
         ],
         "modules": [
-            "/apps/trust/js/374.8a389282a78cc93960cc.js"
+            "/apps/insights/js/374.8a389282a78cc93960cc.js"
         ]
     }
 }
